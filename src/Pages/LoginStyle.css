@@ -1,0 +1,29 @@
+.login-box {
+    padding: 50px;
+    border-radius: 20px;
+    background: #fff;
+}
+
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.title-name {
+    font-size: 24px;
+    font-weight: bold !important;
+    color: blue;
+    margin-bottom: 25px !important;
+}
+
+.login-input {
+    margin-bottom: 25px;
+}
+
+.login-page-bg {
+    background: url("../Images/backgroungImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
